@@ -1,3 +1,4 @@
 this is the first file of develop
 git merge
 checkout the conflict between files
+this is stash lecture, change in main file
